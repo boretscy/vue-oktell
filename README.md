@@ -1,4 +1,4 @@
-# vue-oktell-s
+# vue-oktell
 
 ## Project setup
 ```
